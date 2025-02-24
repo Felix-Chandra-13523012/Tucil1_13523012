@@ -1,0 +1,16 @@
+5 5 7
+A
+AA
+B
+BB
+C
+CC
+D
+DD
+EE
+EE
+E
+FF
+FF
+F
+GGG

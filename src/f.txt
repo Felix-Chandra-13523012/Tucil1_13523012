@@ -1,0 +1,11 @@
+4 4 4
+FFF
+F
+FFF
+F
+AA
+B
+B
+B
+BB
+C

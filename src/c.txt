@@ -1,0 +1,13 @@
+4 4 4
+A
+AA
+AAA
+B
+BB
+C
+C
+C
+D
+ D
+  D
+   D
